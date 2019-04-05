@@ -12,5 +12,6 @@ tmp
 database/development.sqlite
 
 # VSCode & Webstorm history directories
+.vscode
 .history
 .idea

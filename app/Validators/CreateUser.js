@@ -12,7 +12,7 @@ class CreateUser {
   get messages() {
     return {
       'required': 'woy. {{ field }} ini nih kudu di isi.',
-      'unique': 'tunggu bentar. {{ field }} ini nih kayaknya udah terdaftar deh'
+      'unique': '{{ field }} ini nih kayaknya udah terdaftar deh. pake yang lain gih!'
     }
   }
 
